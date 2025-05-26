@@ -2,5 +2,6 @@
 
 git:
   log:
+    # for other options, press <c-l> in commit view, to change stuff eg. sort order to date-order instead of topo-order
     showWholeGraph: true
 
