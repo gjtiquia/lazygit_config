@@ -8,7 +8,7 @@ config docs: https://github.com/jesseduffield/lazygit/blob/master/docs/Config.md
 
 ## setup
 
-`cd` into the `lazygit` config directory
+`cd` into the `~/.config/lazygit/`
 
 it should exist if you have used `lazygit` at least once
 
