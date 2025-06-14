@@ -1,8 +1,12 @@
 # lazygit config
 
-docs: https://github.com/jesseduffield/lazygit/blob/master/docs/Config.md
+config docs: https://github.com/jesseduffield/lazygit/blob/master/docs/Config.md
 
-## Setup
+## where i belong
+
+`~/.config/lazygit/`
+
+## setup
 
 `cd` into the `lazygit` config directory
 
